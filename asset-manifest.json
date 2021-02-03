@@ -1,11 +1,20 @@
 {
   "files": {
+<<<<<<< HEAD
     "app.js": "/static/js/app.749e861f.chunk.js",
     "app.js.map": "/static/js/app.749e861f.chunk.js.map",
     "runtime~app.js": "/static/js/runtime~app.2e9f1821.js",
     "runtime~app.js.map": "/static/js/runtime~app.2e9f1821.js.map",
     "static/js/2.dbbef4b7.chunk.js": "/static/js/2.dbbef4b7.chunk.js",
     "static/js/2.dbbef4b7.chunk.js.map": "/static/js/2.dbbef4b7.chunk.js.map",
+=======
+    "app.js": "/static/js/app.61f5d6b7.chunk.js",
+    "app.js.map": "/static/js/app.61f5d6b7.chunk.js.map",
+    "runtime~app.js": "/static/js/runtime~app.2e9f1821.js",
+    "runtime~app.js.map": "/static/js/runtime~app.2e9f1821.js.map",
+    "static/js/2.56d1e50a.chunk.js": "/static/js/2.56d1e50a.chunk.js",
+    "static/js/2.56d1e50a.chunk.js.map": "/static/js/2.56d1e50a.chunk.js.map",
+>>>>>>> parent of b7a2eff... View update.. and edits..
     "fonts/AntDesign.ttf": "/./fonts/AntDesign.ttf",
     "fonts/Entypo.ttf": "/./fonts/Entypo.ttf",
     "fonts/Feather.ttf": "/./fonts/Feather.ttf",
@@ -26,7 +35,11 @@
     "index.html": "/index.html",
     "manifest.json": "/manifest.json",
     "serve.json": "/serve.json",
+<<<<<<< HEAD
     "static/js/2.dbbef4b7.chunk.js.LICENSE.txt": "/static/js/2.dbbef4b7.chunk.js.LICENSE.txt",
+=======
+    "static/js/2.56d1e50a.chunk.js.LICENSE.txt": "/static/js/2.56d1e50a.chunk.js.LICENSE.txt",
+>>>>>>> parent of b7a2eff... View update.. and edits..
     "static/media/Area_Colour.png": "/static/media/Area_Colour.f4a4e098.png",
     "static/media/Dashboard.png": "/static/media/Dashboard.26766c7a.png",
     "static/media/Feed-Curves.png": "/static/media/Feed-Curves.da739887.png",
@@ -45,7 +58,12 @@
   },
   "entrypoints": [
     "static/js/runtime~app.2e9f1821.js",
+<<<<<<< HEAD
     "static/js/2.dbbef4b7.chunk.js",
     "static/js/app.749e861f.chunk.js"
+=======
+    "static/js/2.56d1e50a.chunk.js",
+    "static/js/app.61f5d6b7.chunk.js"
+>>>>>>> parent of b7a2eff... View update.. and edits..
   ]
 }
