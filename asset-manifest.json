@@ -1,11 +1,11 @@
 {
   "files": {
-    "app.js": "/static/js/app.cf09ef60.chunk.js",
-    "app.js.map": "/static/js/app.cf09ef60.chunk.js.map",
+    "app.js": "/static/js/app.276f3b00.chunk.js",
+    "app.js.map": "/static/js/app.276f3b00.chunk.js.map",
     "runtime~app.js": "/static/js/runtime~app.c09eef9e.js",
     "runtime~app.js.map": "/static/js/runtime~app.c09eef9e.js.map",
-    "static/js/2.12e4b2ee.chunk.js": "/static/js/2.12e4b2ee.chunk.js",
-    "static/js/2.12e4b2ee.chunk.js.map": "/static/js/2.12e4b2ee.chunk.js.map",
+    "static/js/2.33125218.chunk.js": "/static/js/2.33125218.chunk.js",
+    "static/js/2.33125218.chunk.js.map": "/static/js/2.33125218.chunk.js.map",
     "fonts/AntDesign.ttf": "/./fonts/AntDesign.ttf",
     "fonts/Entypo.ttf": "/./fonts/Entypo.ttf",
     "fonts/Feather.ttf": "/./fonts/Feather.ttf",
@@ -18,8 +18,6 @@
     "fonts/MaterialCommunityIcons.ttf": "/./fonts/MaterialCommunityIcons.ttf",
     "fonts/MaterialIcons.ttf": "/./fonts/MaterialIcons.ttf",
     "fonts/SimpleLineIcons.ttf": "/./fonts/SimpleLineIcons.ttf",
-    ".expo/README.md": "/.expo/README.md",
-    ".expo/settings.json": "/.expo/settings.json",
     "favicon-16.png": "/favicon-16.png",
     "favicon-32.png": "/favicon-32.png",
     "favicon.ico": "/favicon.ico",
@@ -29,12 +27,15 @@
     "static/media/Area_Colour.png": "/static/media/Area_Colour.f4a4e098.png",
     "static/media/AutoPig.png": "/static/media/AutoPig.ec16c410.png",
     "static/media/Dashboard.png": "/static/media/Dashboard.26766c7a.png",
+    "static/media/Dot1.png": "/static/media/Dot1.3d67e5c4.png",
     "static/media/Feed-Components.png": "/static/media/Feed-Components.224ca1b3.png",
     "static/media/Feed-Curves.png": "/static/media/Feed-Curves.da739887.png",
     "static/media/Growth-curve.png": "/static/media/Growth-curve.7f9a7fea.png",
     "static/media/Hexa-icon.png": "/static/media/Hexa-icon.5129d536.png",
     "static/media/Hexagon-globe.png": "/static/media/Hexagon-globe.fce26805.png",
     "static/media/Home.png": "/static/media/Home.1fff8434.png",
+    "static/media/Loading.png": "/static/media/Loading.d6c81c08.png",
+    "static/media/Loading_Colour.png": "/static/media/Loading_Colour.4562350c.png",
     "static/media/Logo.png": "/static/media/Logo.9b051259.png",
     "static/media/Sow.png": "/static/media/Sow.beff0aff.png",
     "static/media/System.png": "/static/media/System.7e4af00c.png",
@@ -42,12 +43,14 @@
     "static/media/User.png": "/static/media/User.d73be9fd.png",
     "static/media/bell.png": "/static/media/bell.cf04af27.png",
     "static/media/heart.png": "/static/media/heart.23b5c2c0.png",
+    "static/media/login-bottom.png": "/static/media/login-bottom.bc3dd278.png",
+    "static/media/login-protein.png": "/static/media/login-protein.d27f7882.png",
     "static/media/rocket.png": "/static/media/rocket.d2f3bf41.png",
     "static/media/star.png": "/static/media/star.69c71386.png"
   },
   "entrypoints": [
     "static/js/runtime~app.c09eef9e.js",
-    "static/js/2.12e4b2ee.chunk.js",
-    "static/js/app.cf09ef60.chunk.js"
+    "static/js/2.33125218.chunk.js",
+    "static/js/app.276f3b00.chunk.js"
   ]
 }
