@@ -414,7 +414,7 @@ var _excluded=["Colors"];function Common_ownKeys(object,enumerableOnly){var keys
 // CONCATENATED MODULE: C:/Users/daniel/Desktop/AgrisysApp/src/Theme/Variables.js
 var Variables_Colors={transparent:'rgba(0,0,0,0)',white:'#ffffff',gray:'#a6a6a6',text:'#4a4a49',secountText:'#ffffff',primary:'#a3b9cf',input:'#86939e',inputBackground:'#FFFFFF',success:'#03a489',error:'#dc3545',overest:'#4cafea',pigpink:'#FFAA95',BUMBLEBEE:'#FCE205',AgriGreen:'#03a489',AgriDarkblue:'#4463ab',AgriLightblue:'#a3b9cf',AgriDark:'#4a4a49'};var NavigationColors={primary:Variables_Colors.primary,card:Variables_Colors.AgriDarkblue};var Variables_FontSize={small:16,regular:20,large:40};var tiny=5;var small=tiny*2;var regular=tiny*3;var large=regular*2;var huge=large*2;var Variables_MetricsSizes={tiny:tiny,small:small,regular:regular,large:large,huge:huge};
 // CONCATENATED MODULE: C:/Users/daniel/Desktop/AgrisysApp/src/Theme/themes/default_dark/Variables.js
-var default_dark_Variables_Colors={primary:'lightblue',text:'white',inputBackground:'gray'};var Variables_NavigationColors={primary:default_dark_Variables_Colors.primary};/* harmony default export */ var Variables = ({Colors:default_dark_Variables_Colors,NavigationColors:Variables_NavigationColors});
+var default_dark_Variables_Colors={};var Variables_NavigationColors={};/* harmony default export */ var Variables = ({Colors:default_dark_Variables_Colors,NavigationColors:Variables_NavigationColors});
 // CONCATENATED MODULE: C:/Users/daniel/Desktop/AgrisysApp/src/Theme/themes/default_dark/Images.js
 /* harmony default export */ var default_dark_Images = (function(){});
 // CONCATENATED MODULE: C:/Users/daniel/Desktop/AgrisysApp/src/Theme/themes/default_dark/index.js
@@ -1557,4 +1557,4 @@ webpackContext.id = 976;
 /***/ })
 
 },[[637,1,2]]]);
-//# sourceMappingURL=app.c6994835.chunk.js.map
+//# sourceMappingURL=app.03dd98a0.chunk.js.map
